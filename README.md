@@ -7,7 +7,7 @@ Wuthering Waves does not currently have the ability to render the game fullscree
 
 ## How It Works
 1. Saves the current screen resolution.
-2. Changes resolution to **1600x900**.
+2. Changes resolution to **your choice**.
 3. Launches **Wuthering Waves**.
 4. Waits for the game to close.
 5. Restores the original screen resolution.
@@ -18,7 +18,7 @@ Wuthering Waves does not currently have the ability to render the game fullscree
 3. Run the batch file.
 
 ## Customization
-- Change the resolution values in `QRes.exe /x 1600 /y 900` to your preferred resolution.
+- Change the resolution values in `QRes.exe /x 1600 /y 900` to your preferred resolution. x is width and y is height.
 - Update the path to your **Wuthering Waves.exe** if installed in a different location.
 The default location is "C:\Wuthering Waves\Wuthering Waves Game\Wuthering Waves.exe".
 
